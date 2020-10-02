@@ -1,1 +1,3 @@
-# Sorting-Algorithms-in-Python
+# Sorting-Algorithms.
+
+Adding various Sorting Algorithms.
